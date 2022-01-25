@@ -5,4 +5,6 @@ dependencies:
   - python=3.9
   - numpy
   - scikit-learn
+  - jupyterlab
+  - pandas
 prefix: C:\Users\schri\anaconda3\envs\comp30670
