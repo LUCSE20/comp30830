@@ -1,0 +1,8 @@
+name: comp30670
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - scikit-learn
+prefix: C:\Users\schri\anaconda3\envs\comp30670
